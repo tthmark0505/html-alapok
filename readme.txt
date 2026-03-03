@@ -9,3 +9,5 @@ git push -u origin main
 git remote add origin https://github.com/tthmark0505/html-alapok.git
 git branch -M main
 git push -u origin main
+
+na elv jo
