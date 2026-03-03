@@ -1,0 +1,12 @@
+h1 {
+  color: aqua;
+}
+
+html {
+  background-color: aliceblue;
+}
+
+p.egyedi {
+  color: orange;
+  background-color: black;
+}
